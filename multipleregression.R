@@ -1,4 +1,4 @@
-#This is an example file to implement multiple regression to a dataset.
+#This is an example file to implement multiple regression to a dataset.############jcu#######################################
 #aseguarate to have a sufficient number of observations (problems with degrees of freedom)
 #load package Mass
 
