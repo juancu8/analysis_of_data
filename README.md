@@ -1,6 +1,6 @@
 # analysis_of_data
 
-- technologies: RStudio, Matlab.
+- technologies: R, Matlab.
 
-- Multiple regression (RStudio).
+- Multiple regression (R).
 - Random Forest (regression) (Matlab).
